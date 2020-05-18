@@ -1,11 +1,6 @@
-# MonCoachPersonnel
+# McpUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
-
-
- ng new mcp-ui --style=scss --routing=true --prefix=mcp --skipGit=true
-
-
 
 ## Development server
 
